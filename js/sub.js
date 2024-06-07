@@ -58,7 +58,7 @@ switch (sub_id) {
 
 
 var notesData = {};
-$.getJSON("https://raw.githubusercontent.com/Xbotics7/Nomtes/master/assets/nomtes7.json", function (data) {
+$.getJSON("", function (data) {
 
     notesData = data.BCA
     // var bruh = data.BCA['BCA 101'];
